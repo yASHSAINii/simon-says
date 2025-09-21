@@ -1,3 +1,4 @@
+SIMON-POD
 It is my first worth uploading project using HTML, CSS and JavaScript. 
 
 This is the project where i am showcasing my skills related to webdev. i created this webpage where you can play this game which is called simon-pod. 
