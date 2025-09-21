@@ -5,3 +5,6 @@ This is the project where i am showcasing my skills related to webdev. i created
 Simon-pod is a fun memory game inspired by the classic Simon-says!. The game challenges your memory and reaction time by showing you a sequence of button presses that you need to repeat in the correct order.
 
 Feel free to check it out and have fun while making your memory stronger.
+https://yashsainii.github.io/simon-says/
+
+BUG: sticky keys -> if we press any key consecutively it will get stick because of the timeout duration. Had to add code where we stop taking input while flashing the key. 
